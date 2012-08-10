@@ -1,0 +1,1 @@
+val = get(hpop,'Value');
