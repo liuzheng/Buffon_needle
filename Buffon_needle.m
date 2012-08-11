@@ -1,6 +1,6 @@
 % Monte Carlo test for Buffon's needle
 clc;clear;
-%figure('color',[1 1 1],'name','Buffon needles','numbertitle','off','menubar','none');
+figure('color',[1 1 1],'name','Buffon needles','numbertitle','off','menubar','none');
 clf;
 htexttitle = uicontrol(gcf,'style','text','string','Buffon needles','fontsize',26,'position',[120 380 300 40]);
 
