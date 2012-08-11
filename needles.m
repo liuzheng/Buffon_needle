@@ -1,4 +1,4 @@
-% this function is to get needles
+% This function is to get needles
 
 % Liuzheng 
 % Copyright (c) 2012
