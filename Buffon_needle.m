@@ -2,6 +2,8 @@
 clc;clear;
 figure('color',[1 1 1],'name','Buffon needles','numbertitle','off','menubar','none');
 clf;
+
+% set title
 htexttitle = uicontrol(gcf,'style','text','string','Buffon needles','fontsize',26,'position',[120 380 300 40]);
 
 % D is each line distance , default is 5
