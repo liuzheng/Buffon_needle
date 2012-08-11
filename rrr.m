@@ -1,4 +1,11 @@
 function [x y th] = rrr(v,d,n,D)
+% This function is to design which rand function to use .
+
+% Liuzheng 
+% Copyright (c) 2012
+
+% If you have some advises or problems , please mail to liuzheng712@gmail.com
+% Thank you !
 switch v
     case 1 
         x = rand() * d ;

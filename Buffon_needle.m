@@ -1,5 +1,13 @@
 % Monte Carlo test for Buffon's needle
+
+% Liuzheng 
+% Copyright (c) 2012
+
+% If you have some advises or problems , please mail to liuzheng712@gmail.com
+% Thank you !
+
 clc;clear;
+% New a figure
 figure('color',[1 1 1],'name','Buffon needles','numbertitle','off','menubar','none');
 clf;
 

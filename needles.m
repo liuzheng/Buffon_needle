@@ -1,5 +1,11 @@
 % this function is to get needles
 
+% Liuzheng 
+% Copyright (c) 2012
+
+% If you have some advises or problems , please mail to liuzheng712@gmail.com
+% Thank you !
+
 % a is the number fit for require
 a = 0 ;
 

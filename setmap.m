@@ -1,5 +1,14 @@
+% this code is to read some value and draw something .
+
+% Liuzheng 
+% Copyright (c) 2012
+
+% If you have some advises or problems , please mail to liuzheng712@gmail.com
+% Thank you !
+
 clc;cla;
 
+% get some value
 val = get(hpop,'Value');
 D = str2num(get(heditD,'string'));
 d = str2num(get(heditd,'string'));
