@@ -12,3 +12,5 @@ for i = 0:n-1
     line([0 d],[i i]*D,'Color','r','LineWidth',4);
 end
 axis([-0.1*d 1.1*d -0.1*D*n 1.1*D*(n-1)]);
+line([1.1*d 1.1*d],[-0.1*D*n 1.1*D*(n-1)],'Color','k');
+line([-0.1*d 1.1*d],[1.1*D*(n-1) 1.1*D*(n-1)],'Color','k');
