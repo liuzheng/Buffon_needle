@@ -1,0 +1,23 @@
+This project is simulate Buffon needles problem .
+
+Buffon_needle.m is main . It define the GUI and some default values .
+
+sermap.m is to get some value and draw the game place .
+
+needles.m is to simulate drop needles .
+
+rrr.m is which probability to drop needles .
+
+
+Usage:
+win:
+if you don't have MATLAB you can find MCRInstaller.exe and install it ,
+then you can run Buffon_needle.exe .
+else
+you can open Buffon_needle.m and use MATLABto run it .
+
+Linux:
+
+TODO:
+1. refine the rendom number .
+2. make a super faster buffon needle .
