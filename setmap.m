@@ -1,4 +1,4 @@
-% this code is to read some value and draw something .
+% This code is to read some value and draw something .
 
 % Liuzheng 
 % Copyright (c) 2012
